@@ -2,4 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Hamilton Labs AI SEO Gen App';
-export const SITE_DESCRIPTION = 'AI SEO Image Generator .';
+export const SITE_DESCRIPTION = 'AI SEO Image Generator.';
+
+export const APP_TITLE = 'After the Story';
+export const APP_DESCRIPTION = 'Interviews with legendary characters about their lives after the final chapter.';
